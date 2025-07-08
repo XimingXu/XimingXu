@@ -8,5 +8,5 @@
 
 📂 Selected projects:
 - [Transit Fitting and Stellar Modeling (M.Sc. Thesis)](https://github.com/XimingXu/msc-thesis-transit-fitting-stellar-parameters): Python pipeline for fitting TESS light curves and modeling transiting exoplanet host stars to better constrain their properties.
-- 
+
 📫 Get in touch: ucapxxu@ucl.ac.uk
